@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to CSI Church at Cheyyar
 
-You can use the [editor on GitHub](https://github.com/karthiksripal/CheyyarCSIChurch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Edit this page here -  [editor on GitHub](https://github.com/karthiksripal/CheyyarCSIChurch/edit/master/README.md)
+ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is built on GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages of this site, from the content in your Markdown files.
 
 ### Markdown
 
