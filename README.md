@@ -19,6 +19,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 -->
  
+ ---------An apropriate bible verse here ------
+ 
 ### About Us 
 #### What do we do ?
 #### Where are we ?
