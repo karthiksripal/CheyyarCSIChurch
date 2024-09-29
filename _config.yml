@@ -1,4 +1,4 @@
-theme: jekyll-theme-dinky
+theme: jekyll-theme-leap-day
 nav:
   - text: Lectern Board
     url: /LecternBoard.md

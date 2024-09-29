@@ -20,12 +20,18 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 -->
 
 ### About Us 
+#### What do we do ?
+#### Where are we ?
+
+#### What are we working on ?
+#### What do we want to work on ?
+
 #### Who are we ?
 ##### Current Pastorate committee 
 ##### Past Pastorate commitee 
 
-#### What do we do ?
-#### Where are we ?
+#### Got Questions or Prayer requests ?
+
 
 ### [Lectern Board](/LecternBoard.md)
 
