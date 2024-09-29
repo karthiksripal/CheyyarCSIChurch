@@ -1,0 +1,16 @@
+# Offeratory
+
+<!--
+Data to this comes fro mthe excel sheet at - https://docs.google.com/spreadsheets/d/13HHc9J94_x6tkT4KluBL8KEA3PJ0k_fQANjox_GY-NQ/edit?usp=sharing 
+-->
+
+## Sep 24 
+
+| Date     | Subscriptions | Building Fund | Men's Fellowship Fund | Women's Fellowship Fund | Youth's Fellowship Fund | Children's Fund | Cemetery | Bag collection Offertory 1 | Bag collection Offertory 2 | Thanksgiving Offering | Communion | Auction | Sunday School offering | Cottage Prayer meet | Fasting Prayer | Banns/ Baptism | Harvest Auction Due |
+| -------- | ------------- | ------------- | --------------------- | ----------------------- | ----------------------- | --------------- | -------- | -------------------------- | -------------------------- | --------------------- | --------- | ------- | ---------------------- | ------------------- | -------------- | -------------- | ------------------- |
+| 01.09.24 | 9590          | 2790          | 650                   | 1770                    | 1400                    | 550             | 1050     | 1530                       | 1740                       | 2500                  | 0         | 300     | 430                    | \-                  | 0              | \-             | \-                  |
+| 8.9.2024 | 3350          | 900           | 175                   | 325                     | 325                     | 175             | 550      | 1290                       | 2120                       | 2000                  | 770       | 1000    | 0                      | 2000                | 0              | 0              | 500                 |
+| 15.09.24 | 3350          | 51100         | 250                   | 1050                    | 800                     | 500             | 450      | 1280                       | 1420                       | 3400                  | 0         | 0       | 600                    | 0                   | \-             | \-             | \-                  |
+| 22.09.24 | 2600          | 700           | 50                    | 130                     | 500                     | 100             | 100      | 990                        | 1440                       | 1400                  | \-        | \-      | 250                    | \-                  | 280            |                | \-                  |
+| 29.09.24 | 2950          | 1800          | 50                    | 275                     | 1150                    | 675             | 0        | 640                        | 1770                       | 1100                  | \-        | \-      | 260                    |                     | \-             | \-             | \-                  |
+| Total    | 21840         | 57290         | 1175                  | 3550                    | 4175                    | 2000            | 2150     | 5730                       | 8490                       | 10400                 | 770       | 1300    | 1540                   | 2000                | 280            | 0              | 500                 |

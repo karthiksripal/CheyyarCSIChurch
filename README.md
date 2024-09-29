@@ -21,8 +21,11 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### About Us 
 #### Who are we ?
+##### Current Pastorate committee 
+##### Past Pastorate commitee 
+
 #### What do we do ?
-#### Where are we 
+#### Where are we ?
 
 ### [Lectern Board](/LecternBoard.md)
 
@@ -33,4 +36,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 | Date      | Psalm Reading | Old Testament Reading | Second Reading | Gospel Reading | Opening Hymn | Offeratory 1 Hymn | Offeratory 2 Hymn |
 |:---------:|:-------------:|-----------------------|----------------|----------------|--------------|-------------------|-------------------|
 | 9/29/2024 | 19            | Proverbs 8 22:31      | Rev 21 1-8     | Luke 8 22-25   | K 4          | K 163             | K 224             |
+
+
+### [Offeratory](/Offeratory.md)
 
