@@ -1,5 +1,6 @@
-## Welcome to CSI Church at Cheyyar
+## Welcome to CSI Christ Church at Cheyyar
 
+<!-->
 Edit this page here -  [editor on GitHub](https://github.com/karthiksripal/CheyyarCSIChurch/edit/master/README.md)
  
 
@@ -16,5 +17,20 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-### Lectern Board
+-->
+
+### About Us 
+#### Who are we ?
+#### What do we do ?
+#### Where are we 
+
+### [Lectern Board](/LecternBoard.md)
+
 [Lectern Board](/LecternBoard.md)
+
+
+ 
+| Date      | Psalm Reading | Old Testament Reading | Second Reading | Gospel Reading | Opening Hymn | Offeratory 1 Hymn | Offeratory 2 Hymn |
+|:---------:|:-------------:|-----------------------|----------------|----------------|--------------|-------------------|-------------------|
+| 9/29/2024 | 19            | Proverbs 8 22:31      | Rev 21 1-8     | Luke 8 22-25   | K 4          | K 163             | K 224             |
+
