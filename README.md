@@ -1,6 +1,6 @@
 ## Welcome to CSI Christ Church at Cheyyar
 
-<!-->
+<!-- 
 Edit this page here -  [editor on GitHub](https://github.com/karthiksripal/CheyyarCSIChurch/edit/master/README.md)
  
 
