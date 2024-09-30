@@ -22,3 +22,7 @@ Time machine
     - https://github.com/jekyll/minima 
     - https://github.com/pages-themes/minimal 
     
+# Samples to refer to 
+    - https://stjohnschurchvellore.com/ 
+        - Wordpress Suite integration or migration 
+        

@@ -22,11 +22,27 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
  ---------An apropriate bible verse here ------
  
 ### About Us 
+##### History 
+##### Worship Timings 
 #### What do we do ?
+##### Ministries 
+##### OutReach
+##### Prayer Cells and Supports 
+###### Sunday Schools 
+###### Youth Fellowship 
+###### Womens Fellowship 
+###### Mens Fellowship 
+###### Seniors Fellowship 
+# Gallery Media Events 
+
 #### Where are we ?
 
 #### What are we working on ?
-#### What do we want to work on ?
+##### Outreach 
+
+#### What do we want to also work on ?
+##### Projects 
+
 
 #### Who are we ?
 ##### Current Pastorate committee 
