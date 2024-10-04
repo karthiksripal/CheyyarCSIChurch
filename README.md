@@ -64,3 +64,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### [Offeratory](/Offeratory.md)
 
+
+###### Footer 
+
+<script src="https://tinylytics.app/embed/Yh6c4YGtPvevr7fn-oC2.js" defer></script>
